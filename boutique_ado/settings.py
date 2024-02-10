@@ -35,7 +35,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-janisroz-boutiqueadowal-jnuivqzjlwc.ws-eu108.gitpod.io', 'https://boutiqueadoj-72e80749cb39.herokuapp.com/']
+ALLOWED_HOSTS = ['8000-janisroz-boutiqueadowal-jnuivqzjlwc.ws-eu108.gitpod.io', 'boutiqueadoj-72e80749cb39.herokuapp.com']
 
 
 # Application definition
